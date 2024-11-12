@@ -1,0 +1,15 @@
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\bin\Debug\net8.0\01-conceitos.exe
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\bin\Debug\net8.0\01-conceitos.deps.json
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\bin\Debug\net8.0\01-conceitos.runtimeconfig.json
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\bin\Debug\net8.0\01-conceitos.dll
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\bin\Debug\net8.0\01-conceitos.pdb
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\obj\Debug\net8.0\01-conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\obj\Debug\net8.0\01-conceitos.AssemblyInfoInputs.cache
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\obj\Debug\net8.0\01-conceitos.AssemblyInfo.cs
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\obj\Debug\net8.0\01-conceitos.csproj.CoreCompileInputs.cache
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\obj\Debug\net8.0\01-conceitos.sourcelink.json
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\obj\Debug\net8.0\01-conceitos.dll
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\obj\Debug\net8.0\refint\01-conceitos.dll
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\obj\Debug\net8.0\01-conceitos.pdb
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\obj\Debug\net8.0\01-conceitos.genruntimeconfig.cache
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\01-conceitos\obj\Debug\net8.0\ref\01-conceitos.dll
