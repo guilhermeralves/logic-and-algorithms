@@ -1,0 +1,15 @@
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\obj\Debug\net8.0\05-readline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\obj\Debug\net8.0\05-readline.AssemblyInfoInputs.cache
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\obj\Debug\net8.0\05-readline.AssemblyInfo.cs
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\obj\Debug\net8.0\05-readline.csproj.CoreCompileInputs.cache
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\obj\Debug\net8.0\05-readline.sourcelink.json
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\bin\Debug\net8.0\05-readline.exe
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\bin\Debug\net8.0\05-readline.deps.json
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\bin\Debug\net8.0\05-readline.runtimeconfig.json
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\bin\Debug\net8.0\05-readline.dll
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\bin\Debug\net8.0\05-readline.pdb
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\obj\Debug\net8.0\05-readline.dll
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\obj\Debug\net8.0\refint\05-readline.dll
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\obj\Debug\net8.0\05-readline.pdb
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\obj\Debug\net8.0\05-readline.genruntimeconfig.cache
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\obj\Debug\net8.0\ref\05-readline.dll
