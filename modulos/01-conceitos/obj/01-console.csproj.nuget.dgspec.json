@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\01-console\\01-console.csproj": {}
+    "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\01-conceitos\\01-console.csproj": {}
   },
   "projects": {
-    "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\01-console\\01-console.csproj": {
+    "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\01-conceitos\\01-console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\01-console\\01-console.csproj",
+        "projectUniqueName": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\01-conceitos\\01-console.csproj",
         "projectName": "01-console",
-        "projectPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\01-console\\01-console.csproj",
+        "projectPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\01-conceitos\\01-console.csproj",
         "packagesPath": "C:\\Users\\Guilherme Rodrigues\\.nuget\\packages\\",
-        "outputPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\01-console\\obj\\",
+        "outputPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\01-conceitos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guilherme Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",

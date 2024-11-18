@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\02-variaveis\\02-variaveis.csproj",
+      "projectUniqueName": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\02-variaveis\\02-variaveis.csproj",
       "projectName": "02-variaveis",
-      "projectPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\02-variaveis\\02-variaveis.csproj",
+      "projectPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\02-variaveis\\02-variaveis.csproj",
       "packagesPath": "C:\\Users\\Guilherme Rodrigues\\.nuget\\packages\\",
-      "outputPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\02-variaveis\\obj\\",
+      "outputPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\02-variaveis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Guilherme Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",

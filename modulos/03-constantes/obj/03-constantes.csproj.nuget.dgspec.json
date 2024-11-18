@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\03-constantes\\03-constantes.csproj": {}
+    "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\03-constantes\\03-constantes.csproj": {}
   },
   "projects": {
-    "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\03-constantes\\03-constantes.csproj": {
+    "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\03-constantes\\03-constantes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\03-constantes\\03-constantes.csproj",
+        "projectUniqueName": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\03-constantes\\03-constantes.csproj",
         "projectName": "03-constantes",
-        "projectPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\03-constantes\\03-constantes.csproj",
+        "projectPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\03-constantes\\03-constantes.csproj",
         "packagesPath": "C:\\Users\\Guilherme Rodrigues\\.nuget\\packages\\",
-        "outputPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\03-constantes\\obj\\",
+        "outputPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\03-constantes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guilherme Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\04-concatenacao\\04-concatenacao.csproj",
+      "projectUniqueName": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\04-concatenacao\\04-concatenacao.csproj",
       "projectName": "04-concatenacao",
-      "projectPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\04-concatenacao\\04-concatenacao.csproj",
+      "projectPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\04-concatenacao\\04-concatenacao.csproj",
       "packagesPath": "C:\\Users\\Guilherme Rodrigues\\.nuget\\packages\\",
-      "outputPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\04-concatenacao\\obj\\",
+      "outputPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\04-concatenacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Guilherme Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",

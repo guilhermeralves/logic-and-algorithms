@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\05-readline\\05-readline.csproj",
+      "projectUniqueName": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\05-readline\\05-readline.csproj",
       "projectName": "05-readline",
-      "projectPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\05-readline\\05-readline.csproj",
+      "projectPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\05-readline\\05-readline.csproj",
       "packagesPath": "C:\\Users\\Guilherme Rodrigues\\.nuget\\packages\\",
-      "outputPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\05-readline\\obj\\",
+      "outputPath": "C:\\Github_Guilherme_Rodrigues\\logic-and-algorithms\\modulos\\05-readline\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Guilherme Rodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",

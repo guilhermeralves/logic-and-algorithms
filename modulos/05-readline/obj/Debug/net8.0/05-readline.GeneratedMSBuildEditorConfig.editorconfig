@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _05_readline
-build_property.ProjectDir = C:\Github_Guilherme_Rodrigues\logic-and-algorithms\05-readline\
+build_property.ProjectDir = C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\05-readline\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,15 @@
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\bin\Debug\net8.0\07-operadoresaritimeticos.exe
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\bin\Debug\net8.0\07-operadoresaritimeticos.deps.json
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\bin\Debug\net8.0\07-operadoresaritimeticos.runtimeconfig.json
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\bin\Debug\net8.0\07-operadoresaritimeticos.dll
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\bin\Debug\net8.0\07-operadoresaritimeticos.pdb
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\obj\Debug\net8.0\07-operadoresaritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\obj\Debug\net8.0\07-operadoresaritimeticos.AssemblyInfoInputs.cache
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\obj\Debug\net8.0\07-operadoresaritimeticos.AssemblyInfo.cs
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\obj\Debug\net8.0\07-operadoresaritimeticos.csproj.CoreCompileInputs.cache
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\obj\Debug\net8.0\07-operadoresaritimeticos.sourcelink.json
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\obj\Debug\net8.0\07-operadoresaritimeticos.dll
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\obj\Debug\net8.0\refint\07-operadoresaritimeticos.dll
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\obj\Debug\net8.0\07-operadoresaritimeticos.pdb
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\obj\Debug\net8.0\07-operadoresaritimeticos.genruntimeconfig.cache
+C:\Github_Guilherme_Rodrigues\logic-and-algorithms\modulos\07-aritimeticos\obj\Debug\net8.0\ref\07-operadoresaritimeticos.dll
